@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mitra {
+    background-image: url('../../public/assets/images/pict8.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login {
+    background-image: url('../../public/assets/images/pict10.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
